@@ -10,6 +10,8 @@ namespace prova
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ciao ");
+            Console.WriteLine("leo è il miglior fidanzato del mondo");
         }
     }
 }
